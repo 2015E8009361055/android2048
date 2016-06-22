@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UCAS2048</string>
+    <string name="totalscores">总分：</string>
+    <string name="reset">重玩</string>
+    <string name="undo">撤销</string>
+    <string name="rank">排名</string>
+</resources>
